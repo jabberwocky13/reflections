@@ -15,8 +15,19 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	the staging area allows you to review all of your changes within a given 
+	period of time. you can look over your work and identify which files have
+	changed, and commit the ones that have been updated in relation to a logical
+	change as a group, rather than just blanket committing all changes made 
+	within a given period of time.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	When you are trying something "experimental" with your code, or when you are
+	trying to create different versions of a file. Another time would be when you
+	have multiple people collaborating on a file (you can merge all of their 
+	changes later on)
 
 How do the diagrams help you visualize the branch structure?
 
